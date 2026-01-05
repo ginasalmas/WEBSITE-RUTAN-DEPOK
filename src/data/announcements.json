@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Pengumuman Layanan Kunjungan Idul Fitri 1446 H",
+    "date": "2025-03-20",
+    "content": "Sehubungan dengan Hari Raya Idul Fitri 1446 H, layanan kunjungan tatap muka akan dibuka selama 3 hari berturut-turut mulai tanggal 1 Syawal. Pendaftaran dilakukan secara online melalui aplikasi SiRutan.",
+    "category": "Layanan"
+  },
+  {
+    "id": 2,
+    "title": "Jadwal Penitipan Barang Makanan Bulan Ramadhan",
+    "date": "2025-03-01",
+    "content": "Selama bulan Ramadhan, jadwal penitipan barang dan makanan mengalami penyesuaian. Sesi pagi ditiadakan dan diganti menjadi sesi sore mulai pukul 15.00 - 17.00 WIB.",
+    "category": "Layanan"
+  },
+  {
+    "id": 3,
+    "title": "Rekrutmen CPNS Kemenkumham 2025",
+    "date": "2025-01-15",
+    "content": "Kementerian Hukum dan HAM membuka kesempatan bagi putra-putri terbaik bangsa untuk bergabung sebagai Tunas Pengayoman. Informasi lebih lanjut kunjungi cpns.kemenkumham.go.id.",
+    "category": "Kepegawaian"
+  }
+]
