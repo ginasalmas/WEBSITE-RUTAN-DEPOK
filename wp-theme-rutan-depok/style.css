@@ -1,0 +1,30 @@
+/*
+Theme Name: Rutan Depok Premium
+Theme URI: http://localhost:5174/
+Description: A premium Navy & Gold theme for Rutan Depok, converted from a React SPA.
+Author: Antigravity
+Version: 1.0
+Text Domain: rutan-depok
+*/
+
+/* 
+Custom Metallic Gold Utility Classes 
+These are ported from the React version's Tailwind and CSS configurations.
+*/
+
+.gold-plate-text {
+    background: linear-gradient(135deg, #BF953F 0%, #FCF6BA 25%, #B38728 50%, #FBF5B7 75%, #AA771C 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+}
+
+.bg-gradient-gold {
+    background: linear-gradient(135deg, #F5D17E 0%, #D4AF37 50%, #B8860B 100%);
+}
+
+.glass-morphism {
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(20px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
